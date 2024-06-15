@@ -1,0 +1,50 @@
+#education{
+    background-color: #e5ecfb;
+  }
+  .edu-container{
+  
+  
+    padding-bottom: 2rem;
+  }
+  .edu-container .heading{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding-top: 3rem;
+    font-family: "Poppins", sans-serif;
+  }
+  .edu-container .heading span{
+    color: #6a4c93;
+  }
+  .edu-container .heading i{
+    padding-right: 0.7rem;
+  }
+  .edu-thought h1{
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .card-group .card-body,
+  .card-group img
+  {
+    /* box-shadow: 0.2rem 0.5rem 1rem  rgba(0, 0, 0, 0.2); */
+    box-shadow: 0.2rem 0.5rem 1rem  rgba(0, 0, 0, 0.2);
+  
+    cursor: pointer;
+  }
+  .card-group .card-body:hover,
+  .card-group img:hover
+  {
+    /* box-shadow: 0.2rem 0.5rem 1rem  rgba(0, 0, 0, 0.2); */
+    box-shadow: 1rem 0.5rem 1.2rem rgba(0, 0, 0, 0.3);
+  
+  }
+  
+  
+  .edu-card h4{
+    color: rgb(34, 109, 0);
+  }
+  .card-body h3{
+   color:#012970;
+   font-weight: 600;
+  }
