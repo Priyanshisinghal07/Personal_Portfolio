@@ -9,7 +9,7 @@ export default function Skill() {
            <h1 class="heading"><i class="fas fa-laptop-code" style={{color: '#ffffff'}}></i>Skills & <span> Abilities</span></h1>
           <div class="card-row">
            <div class=" card card-box h-100">
-            <div class="row row-cols-md-3 row-cols-lg-6  row-cols-sm-2 row-cols-1 g-4">
+            <div class="row row-cols-md-2 row-cols-lg-4  row-cols-sm-2 row-cols-1 g-4">
               <div class="col">
                 <div class="card  card-cont "  >
               
@@ -47,20 +47,27 @@ export default function Skill() {
                             <span>React js</span>
                             </div>
                             </div>
-                      <div class="col">
+                      {/* <div class="col">
                         <div class="card  card-cont" >
 
                           <img src="https://img.icons8.com/color/48/000000/python--v1.png" class="img-info" alt="..."/>
                         <span>Python</span>
                         </div>
+                        </div> */}
+                         <div class="col">
+                        <div class="card  card-cont" >
+
+                          <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" class="img-info" alt="..."/>
+                        <span>Java</span>
                         </div>
-                        <div class="col">
+                        </div>
+                        {/* <div class="col">
                           <div class="card  card-cont" style={{height:'9rem'}} >
 
                             <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" class="img-info" alt="..."/>
                           <span>Flask</span>
                           </div>
-                          </div>
+                          </div> */}
           
                             <div class="col">
                               <div class="card  card-cont " style={{height:'9rem'}} >
@@ -70,13 +77,13 @@ export default function Skill() {
                               <span>MySQL</span>
                               </div>
                               </div>
-                              <div class="col">
+                              {/* <div class="col">
                                 <div class="card  card-cont" style={{height:'9rem'}}>
                                 
                                   <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=ffffff" class="img-info" alt="..."/>
                                 <span>SqLite</span>
                                 </div>
-                                </div>
+                                </div> */}
                                 <div class="col">
                                   <div class="card  card-cont" style={{height:'9rem'}}  >
                                   
@@ -84,20 +91,20 @@ export default function Skill() {
                                   <span>GitHub</span>
                                   </div>
                                   </div>
-                                  <div class="col">
+                                  {/* <div class="col">
                                     <div class="card  card-cont" style={{height:'9rem'}} >
             
                                       <img src="https://img.icons8.com/color/48/000000/git.png" class="img-info" alt="..."/>
                                     <span>GitBash</span>
                                     </div>
-                                    </div>
-                                    <div class="col">
+                                    </div> */}
+                                    {/* <div class="col">
                                       <div class="card  card-cont" style={{height:'9rem'}} >
             
                                         <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-machine-data-analytics-flaticons-lineal-color-flat-icons.png" class="img-info" alt="" />
                                       <span>Machine Learning</span>
                                       </div>
-                                      </div>
+                                      </div> */}
             </div>
           </div>
         </div>

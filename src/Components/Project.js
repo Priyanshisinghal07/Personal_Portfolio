@@ -9,7 +9,7 @@ export default function Project() {
             <div class="project-container">
               <h1 class="heading">"<i class="fas fa-laptop-code"></i> Projects <span> Made</span></h1>
               <div class="project-btn">
-           <Link to="#" class="btn">
+           <Link to="/work" class="btn">
             View All
             <i class="fas fa-arrow-right"></i>
            </Link>

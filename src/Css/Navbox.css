@@ -1,0 +1,12 @@
+.navBox {
+    background-color: #c8e0fc;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 25px 20px;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
